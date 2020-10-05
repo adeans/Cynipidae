@@ -1,0 +1,32 @@
+= Dryocosmus quercuspalustris
+
+== Valid name
+Dryocosmus quercuspalustris (Osten Sacken, 1861)<<ostensacken1861cyn>> //<= not sure the best way to cite the original description
+
+== Common name
+Succulent gall wasp
+
+== Gall morphology
+Spherical, hollow gall, with free-rolling larval chamber. Gall is green, with a fleshy wall and light green spots when young, turning brown and shriveling after adult emerges. Gall can be found on leaves or, less commonly, on catkins. //<= looking to structure and standardize this section; just natural language right now
+
+== Seasonality
+Galls appear in early spring, with adults of both sexes emerging in late spring.
+
+== Host plants
+* _Quercus coccinea_
+* _Quercus falcata_
+* _Quercus ilicifolia_
+* _Quercus imbricaria_
+* _Quercus nigra_
+* _Quercus palustris_
+* _Quercus rubra_
+* _Quercus texana_
+* _Quercus velutina_
+
+== Notes
+Some extra stuff here about the gall
+
+[bibliography] //<= is there a way to centralize the bibliography?
+== References
+
+- [[[ostensacken1861cyn]]] Osten Sacken, B. R. (1861) Additions to some other galls described in the paper on the Cynipidae, etc. Proceedings of the Entomological Society of Philadelphia 1:47–72.  https://www.biodiversitylibrary.org/page/3328764
